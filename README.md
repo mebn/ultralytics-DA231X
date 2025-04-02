@@ -1,3 +1,7 @@
+# DA231X
+
+This repo is for my master thesis project. Different backbones and necks have been added.
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/blog/ultralytics-yolo11-has-arrived-redefine-whats-possible-in-ai" target="_blank">
